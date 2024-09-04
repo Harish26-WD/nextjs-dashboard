@@ -22,7 +22,7 @@ export default function Page() {
             </a>
             , brought to you by{" "}
             <span className={`${robotoCondensed.className} antialiased`}>
-              Vercel...
+              Vercel
             </span>
             .
           </p>
